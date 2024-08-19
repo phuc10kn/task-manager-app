@@ -1,0 +1,2 @@
+class TaskActivity < ApplicationRecord
+end
